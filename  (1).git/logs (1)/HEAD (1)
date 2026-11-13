@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 aff2c62fece2531f6f5b6288f83d8d6805e227f1 Ranjana <4mu25cs109@gmail.com> 1790231966 +0530	commit (initial): Add README describing the project
+aff2c62fece2531f6f5b6288f83d8d6805e227f1 0e826790c39c489d46fd2f54fc108d1932d99aca Ranjana <4mu25cs109@gmail.com> 1790232282 +0530	commit: Add marks statistics program
+0e826790c39c489d46fd2f54fc108d1932d99aca 3f17aea11f11facba5d655b69c241f793ec37824 Ranjana <4mu25cs109@gmail.com> 1790232913 +0530	commit: Add gitignore and env template
+3f17aea11f11facba5d655b69c241f793ec37824 3f17aea11f11facba5d655b69c241f793ec37824 Ranjana <4mu25cs109@gmail.com> 1790835787 +0530	checkout: moving from master to feature-branch
+3f17aea11f11facba5d655b69c241f793ec37824 c88107159beae74514b3d77f615747bf1afe5a40 Ranjana <4mu25cs109@gmail.com> 1790836343 +0530	commit: Add lowest mark to the report
+c88107159beae74514b3d77f615747bf1afe5a40 3f17aea11f11facba5d655b69c241f793ec37824 Ranjana <4mu25cs109@gmail.com> 1790836385 +0530	checkout: moving from feature-branch to master
+3f17aea11f11facba5d655b69c241f793ec37824 3f17aea11f11facba5d655b69c241f793ec37824 Ranjana <4mu25cs109@gmail.com> 1790836612 +0530	checkout: moving from master to master
+3f17aea11f11facba5d655b69c241f793ec37824 3f17aea11f11facba5d655b69c241f793ec37824 Ranjana <4mu25cs109@gmail.com> 1790836897 +0530	checkout: moving from master to master
+3f17aea11f11facba5d655b69c241f793ec37824 75c851b76a1cde99f08c29579fb244dace56458e Ranjana <4mu25cs109@gmail.com> 1790837115 +0530	commit: Add usage instructions to README
+75c851b76a1cde99f08c29579fb244dace56458e e0755a1602bf2016f51643076b577cc850bfdfcd Ranjana <4mu25cs109@gmail.com> 1790837255 +0530	commit: Add usage instructions to README
+e0755a1602bf2016f51643076b577cc850bfdfcd e0755a1602bf2016f51643076b577cc850bfdfcd Ranjana <4mu25cs109@gmail.com> 1790837691 +0530	reset: moving to HEAD
+e0755a1602bf2016f51643076b577cc850bfdfcd e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1790837699 +0530	merge feature-branch: Merge made by the 'ort' strategy.
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1790839626 +0530	checkout: moving from master to feature-branch
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 Ranjana <4mu25cs109@gmail.com> 1790839735 +0530	commit: Describe stats.py in a docstring
+eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1790839755 +0530	checkout: moving from feature-branch to master
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1791440888 +0530	reset: moving to HEAD
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 Ranjana <4mu25cs109@gmail.com> 1791440895 +0530	checkout: moving from master to feature-branch
+eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1791440974 +0530	checkout: moving from feature-branch to master
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1791441922 +0530	reset: moving to HEAD
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1791442644 +0530	reset: moving to HEAD
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 Ranjana <4mu25cs109@gmail.com> 1791442672 +0530	checkout: moving from master to feature-branch
+eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1791443141 +0530	checkout: moving from feature-branch to master
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 Ranjana <4mu25cs109@gmail.com> 1792044993 +0530	reset: moving to HEAD
+e8d62e3c6bfb555074cca4b4b4e81ef13d6424c7 5b92dc7e45a12b80f629e9fd2f160185a014e547 Ranjana <4mu25cs109@gmail.com> 1792045232 +0530	commit: Describe stats.py in a docstring
+5b92dc7e45a12b80f629e9fd2f160185a014e547 5b92dc7e45a12b80f629e9fd2f160185a014e547 Ranjana <4mu25cs109@gmail.com> 1792045255 +0530	checkout: moving from master to master
+5b92dc7e45a12b80f629e9fd2f160185a014e547 5b92dc7e45a12b80f629e9fd2f160185a014e547 Ranjana <4mu25cs109@gmail.com> 1792045716 +0530	reset: moving to HEAD
+5b92dc7e45a12b80f629e9fd2f160185a014e547 5b92dc7e45a12b80f629e9fd2f160185a014e547 Ranjana <4mu25cs109@gmail.com> 1792046213 +0530	reset: moving to HEAD
+5b92dc7e45a12b80f629e9fd2f160185a014e547 eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 Ranjana <4mu25cs109@gmail.com> 1792046218 +0530	checkout: moving from master to feature-branch
+eecdc6cfc6706f1d144457dbc0a2a85b21e7d3c1 5b92dc7e45a12b80f629e9fd2f160185a014e547 Ranjana <4mu25cs109@gmail.com> 1792046561 +0530	checkout: moving from feature-branch to master
+5b92dc7e45a12b80f629e9fd2f160185a014e547 e6be75bb8af45a124b0b07244dd105106c1cd589 Ranjana <4mu25cs109@gmail.com> 1792047052 +0530	commit: Add pass count using PASS_MARK from .env
+e6be75bb8af45a124b0b07244dd105106c1cd589 e6be75bb8af45a124b0b07244dd105106c1cd589 Ranjana <4mu25cs109@gmail.com> 1792047080 +0530	reset: moving to HEAD

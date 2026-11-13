@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Ranjana
+	email = 4mu25cs109@gmail.com
+[credential]
+	helper = 
